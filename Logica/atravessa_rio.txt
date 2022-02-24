@@ -1,0 +1,7 @@
+1 - atravessa o carneiro do ponto 1 para o 2;
+2 - volta para o ponto 1 e pega o lobo
+3 - deixa o lobo no ponto 2 e pega o carneiro
+4 - deixa o carneiro no ponto 1 e pega o alface
+5 - deixa o alface no ponto 2 e volta pra pegar o carneiro
+6 - pega o carneiro e leva do ponto 1 para o ponto 2
+feito
